@@ -3,3 +3,7 @@
 libraries
 *.jar
 mods
+*.log
+*.lck
+world
+reports
